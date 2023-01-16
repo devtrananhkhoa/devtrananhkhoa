@@ -1,6 +1,30 @@
-- 👋 Hi, I’m @DevTranAnhKhoa
+<h3 align="center">👋   Hi, I’m @DevTranAnhKhoa   👋 </br> <p>"This is a personal account of public and private projects. Most projects are private"</p></h3>
 
-This is a personal account of public and private projects (Most projects are private)
+
+<div id="badges" align="center">
+  <a href="https://twitter.com/#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://youtube.com/#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://facebook.com/#">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://t.me/#">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+---
+**About Me**
+---
++ Some technologies i enjoy working with include:
+ - Front-end: ReactJs / NextJs
+ - Back-end: Nodejs 
+ - Database: MySQL / MongoDb 
+ - Languages: PHP / Javascript / **Typescript** / Python / MQL4-5 / C++ / Solidity
+---
 
 <!---
 DevTranAnhKhoa/DevTranAnhKhoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
