@@ -28,6 +28,7 @@
  - Back-end: Nodejs 
  - Database: MySQL / MongoDb 
  - Programming Languages: PHP / Javascript / Typescript / Python / MQL4-5 / C++ / Solidity
+ - Open source website builder: Joomla / Wordpress
 ---
 
 <!---
