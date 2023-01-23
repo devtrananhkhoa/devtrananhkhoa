@@ -17,13 +17,13 @@
 </div>
 
 ---
-**About Me**
----
-+ Some technologies i enjoy working with include:
+# About Me
+
+***Some technologies i enjoy working with include:***
  - Front-end: ReactJs / NextJs
  - Back-end: Nodejs 
  - Database: MySQL / MongoDb 
- - Languages: PHP / Javascript / **Typescript** / Python / MQL4-5 / C++ / Solidity
+ - Languages: PHP / Javascript / Typescript / Python / MQL4-5 / C++ / Solidity
 ---
 
 <!---
@@ -31,7 +31,7 @@ DevTranAnhKhoa/DevTranAnhKhoa is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### ⚙️ &nbsp;GitHub Analytics
+# ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/DevTranAnhKhoa">
