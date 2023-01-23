@@ -2,16 +2,16 @@
 
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/#">
+  <a href="https://twitter.com/DEVTranAnhKhoa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://youtube.com/#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://facebook.com/#">
+  <a href="https://facebook.com/DEVTranAnhKhoa">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://t.me/#">
+  <a href="https://t.me/DEVTranAnhKhoa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
