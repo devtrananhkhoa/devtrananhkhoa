@@ -1,4 +1,4 @@
-<h3 align="center">👋   Hi, I’m @DevTranAnhKhoa   👋 </br> <p>"This is a personal account of public and private projects. Most projects are private"</p></h3>
+<h3 align="center">👋   Hi, I’m @DevTranAnhKhoa   👋 </br> <p>"This is my personal account, used to store learning and develop my own projects."</p></h3>
 
 
 <div id="badges" align="center">
