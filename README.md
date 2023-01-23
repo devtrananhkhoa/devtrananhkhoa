@@ -18,12 +18,16 @@
 
 ---
 # About Me
+- A Full-Stack Developer.
+- I'm working at Home Office.
+- I usually Learning all about open source.
+
 
 ***Some technologies i enjoy working with include:***
  - Front-end: ReactJs / NextJs
  - Back-end: Nodejs 
  - Database: MySQL / MongoDb 
- - Languages: PHP / Javascript / Typescript / Python / MQL4-5 / C++ / Solidity
+ - Programming Languages: PHP / Javascript / Typescript / Python / MQL4-5 / C++ / Solidity
 ---
 
 <!---
