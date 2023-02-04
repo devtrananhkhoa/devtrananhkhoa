@@ -24,6 +24,7 @@
  - Front-end: ReactJs / NextJs
  - Back-end: Nodejs 
  - Database: MySQL / MongoDb 
+ - Smart-contract: Ethereum, Binance
  - Programming Languages: PHP / Javascript / Typescript / Python / MQL4-5 / C++ / Solidity
  - Open source website builder: Joomla / Wordpress
 ---
