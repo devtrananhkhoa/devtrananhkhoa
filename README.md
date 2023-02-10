@@ -15,8 +15,8 @@
 
 ---
 # About Me
-- A Full-Stack Developer.
-- I'm working at Home Office.
+- I'm a developer, investor and trader.
+- I'm working online from home.
 - I usually Learning all about open source.
 
 
