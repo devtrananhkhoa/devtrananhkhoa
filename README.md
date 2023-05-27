@@ -34,6 +34,19 @@ DevTranAnhKhoa/DevTranAnhKhoa is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+# Crypto Currency Referral
+
+- Binance: https://accounts.binance.com/register?ref=12228167
+- Huobi: https://www.huobi.com/vi-vi/v/register/double-invite/?inviter_id=11345710&invite_code=w7553
+- Okx: https://www.okx.com/join/2304599
+- Kucoin: https://www.kucoin.com/ucenter/signup?rcode=JRyQtc
+- Mexc: https://www.mexc.com/register?inviteCode=14J8j
+- Gate: https://www.gate.io/signup/UVJCBgoK
+- Bybit: https://www.bybit.com/invite?ref=QQQJWG
+- Bitget: https://www.bitget.com/en/referral/register?clacCode=DRQBEHSP
+
+
+
 # ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
