@@ -1,12 +1,12 @@
-<h3 align="center">👋   Hi, I’m @DevTranAnhKhoa   👋 </br> <p>"This is my personal account, used to store learning and develop my own projects."</p></h3>
+<h3 align="center">👋   Hi, I’m @EricSmith0x   👋 </br> <p>"This is my personal account, used to store learning and develop my own projects."</p></h3>
 
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/devtrananhkhoa">
+  <a href="https://twitter.com/ericsmith0x">
     <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://facebook.com/devtrananhkhoa">
+  <a href="https://facebook.com/ericsmith0x">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 
