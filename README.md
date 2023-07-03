@@ -22,7 +22,7 @@
 
 ***Some technologies i enjoy working with include:***
  - Front-end: ReactJs / NextJs
- - Back-end: Nodejs 
+ - Back-end: NodeJs 
  - Database: MySQL / MongoDb 
  - Smart-contract: Ethereum, Binance
  - Programming Languages: PHP / Javascript / Typescript / Python / MQL4-5 / C++ / Solidity
