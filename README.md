@@ -5,11 +5,11 @@
 
   <a href="https://twitter.com/ericsmith0x" style="margin-right: 16px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> &nbsp;
 
   <a href="https://t.me/ericsmith0x" style="margin-right: 16px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  </a> &nbsp;
      <a href="https://youtube.com/#" style="margin-right: 16px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -39,14 +39,14 @@ You can click the Preview link to take a look at your changes.
 
 # Crypto Currency Referral
 
-- Binance: [Link](https://accounts.binance.com/register?ref=12228167)
-- Okx: [Link](https://www.okx.com/join/2304599)
-- Bybit: [Link](https://www.bybit.com/invite?ref=QQQJWG)
-- Huobi: [Link](https://www.huobi.com/vi-vi/v/register/double-invite/?inviter_id=11345710&invite_code=w7553)
-- Kucoin: [Link](https://www.kucoin.com/ucenter/signup?rcode=JRyQtc)
-- Mexc: [Link](https://www.mexc.com/register?inviteCode=14J8j)
-- Gate: [Link](https://www.gate.io/signup/UVJCBgoK)
-- Bitget: [Link](https://www.bitget.com/en/referral/register?clacCode=DRQBEHSP)
+- Binance: [Link to register an account](https://accounts.binance.com/register?ref=12228167)
+- Okx: [Link to register an account](https://www.okx.com/join/2304599)
+- Bybit: [Link to register an account](https://www.bybit.com/invite?ref=QQQJWG)
+- Huobi: [Link to register an account](https://www.huobi.com/vi-vi/v/register/double-invite/?inviter_id=11345710&invite_code=w7553)
+- Kucoin: [Link to register an account](https://www.kucoin.com/ucenter/signup?rcode=JRyQtc)
+- Mexc: [Link to register an account](https://www.mexc.com/register?inviteCode=14J8j)
+- Gate: [Link to register an account](https://www.gate.io/signup/UVJCBgoK)
+- Bitget: [Link to register an account](https://www.bitget.com/en/referral/register?clacCode=DRQBEHSP)
 
 
 
