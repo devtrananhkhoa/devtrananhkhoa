@@ -4,7 +4,7 @@
 <div id="badges" align="center">
 
   <a href="https://twitter.com/ericsmith0x" style="margin-right: 16px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> &nbsp;
 
   <a href="https://t.me/ericsmith0x" style="margin-right: 16px; text-decoration: none;">
