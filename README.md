@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 # ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ericsmith0x">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ericsmith0x&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/devtrananhkhoa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devtrananhkhoa&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </a>
 </p> 
