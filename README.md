@@ -3,14 +3,14 @@
 
 <div id="badges" align="center">
 
-  <a href="https://twitter.com/ericsmith0x" style="margin-right: 16px; text-decoration: none;">
+  <a href="https://twitter.com/devtrananhkhoa" style="margin-right: 16px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> &nbsp;
 
-  <a href="https://t.me/ericsmith0x" style="margin-right: 16px; text-decoration: none;">
+  <a href="https://t.me/devtrananhkhoa" style="margin-right: 16px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> &nbsp;
-     <a href="https://youtube.com/#" style="margin-right: 16px; text-decoration: none;">
+     <a href="https://youtube.com/devtrananhkhoa" style="margin-right: 16px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
